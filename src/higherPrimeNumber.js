@@ -3,6 +3,9 @@
 // Retorna el numero par mas alto
 
 const higherPrimeNumber = (number) => {
+    const arrayNumeros = number.toString
+    const numerosPrimosArray = arrayNumeros.filter
+
 
 }
 

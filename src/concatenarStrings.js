@@ -10,6 +10,8 @@
 
 const concatenarStrings = (a, b) => {
 
+    return a + b
 }
+console.log(concatenarStrings('hola', 'mundo'))
 
 export default concatenarStrings
